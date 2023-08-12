@@ -239,7 +239,7 @@ span {
    background: var(--second-bg-color);
 }
 
-portfolio h2 {
+.portfolio h2 {
    margin-bottom: 4rem;
 }
 
